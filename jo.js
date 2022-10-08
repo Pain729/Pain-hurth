@@ -481,8 +481,8 @@ const lori ={
 "itemCount": 2025,
 "status": "INQUIRY",
 "surface": "CATALOG",
-"orderTitle": "FIXED BY THE JO BOT CASE MD",
-"message":"😈⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
+"orderTitle": "PianBotzz",
+"message":"😈⏤͟͟͞PianBotzz",
 "sellerJid": "5491133536405@s.whatsapp.net",
 "token": "AR57p+dSS4yeh4tAQCMyt51dvXpHlgliVN1/6Au+XBE3+w==",//Kode ini jangan di ubh sedikit pun 
 "totalAmount1000": "IDR 99.99999999999999999999",
@@ -1086,7 +1086,7 @@ INFO: ${q ? q : 'kosong'}
  jobotz.sendMessage(m.chat, { text: teks, mentions: participants.map(a => a.id),
 contextInfo: {
 externalAdReply: {
-title: `©⏤͟͟͞𝐓𝐇𝐄 𝐉𝐎 𝐁𝐎𝐓`,
+title: `©⏤͟͟͞PianBotzz`,
 body:`Runtime ${runtime(process.uptime())}`,
 previewType: "PHOTO",
 showAdAttribution: true,
@@ -1419,12 +1419,12 @@ break
                     let btn = [{
                                 urlButton: {
                                     displayText: 'Source Code',
-                                    url: 'https://github.com/DikaArdnt/jobotz-Morou'
+                                    url: '-'
                                 }
                             }, {
                                 callButton: {
                                     displayText: 'Number Phone Owner',
-                                    phoneNumber: '+62 882-9202-4190'
+                                    phoneNumber: '+62 896-1488-9531'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -1458,12 +1458,12 @@ break
 		    let btn = [{
                                 urlButton: {
                                     displayText: 'Source Code',
-                                    url: 'https://github.com/DikaArdnt/jobotz-Morou'
+                                    url: '-'
                                 }
                             }, {
                                 callButton: {
                                     displayText: 'Number Phone Owner',
-                                    phoneNumber: '+62 882-9202-4190'
+                                    phoneNumber: '+62 896-1488-9531'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3099,7 +3099,7 @@ sections: [{
 "rows": [
 {
 "title": "BUG MENU",
-"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
+"description": "© ⏤͟͟͞PianBotzz",
 "rowId": `${prefix}bugmenu`
 }
 ]
@@ -3109,7 +3109,7 @@ sections: [{
 "rows": [
 {
 "title": "OWNER MENU",
-"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
+"description": "© ⏤͟͟͞PianBotzz",
 "rowId": `${prefix}ownermenu`
 }
 ]
@@ -3119,7 +3119,7 @@ sections: [{
 "rows": [
 {
 "title": "GRUP MENU",
-"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
+"description": "© ⏤͟͟͞PianBotzz",
 "rowId": `${prefix}grupmenu`
 }
 ]
@@ -3129,7 +3129,7 @@ sections: [{
 "rows": [
 {
 "title": "WEBZONE MENU",
-"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
+"description": "© ⏤͟͟͞PianBotzz",
 "rowId": `${prefix}webzonemenu`
 }
 ]
@@ -3139,7 +3139,7 @@ sections: [{
 "rows": [
 {
 "title": "DOWNLOAD MENU",
-"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
+"description": "© ⏤͟͟͞PianBotzz",
 "rowId": `${prefix}downloadmenu`
 }
 ]
@@ -3149,7 +3149,7 @@ sections: [{
 "rows": [
 {
 "title": "SEARCH MENU",
-"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
+"description": "© ⏤͟͟͞PianBotzz",
 "rowId": `${prefix}searchmenu`
 }
 ]
@@ -3159,7 +3159,7 @@ sections: [{
 "rows": [
 {
 "title": "RANDOM MENU",
-"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
+"description": "© ⏤͟͟͞PianBotzz",
 "rowId": `${prefix}randommenu`
 }
 ]
@@ -3169,7 +3169,7 @@ sections: [{
 "rows": [
 {
 "title": "TEKSPRO MENU",
-"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
+"description": "© ⏤͟͟͞PianBotzz",
 "rowId": `${prefix}tekspromenu`
 }
 ]
@@ -3179,7 +3179,7 @@ sections: [{
 "rows": [
 {
 "title": "PHOTO MENU",
-"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
+"description": "© ⏤͟͟͞PianBotzz",
 "rowId": `${prefix}photomenu`
 }
 ]
@@ -3189,7 +3189,7 @@ sections: [{
 "rows": [
 {
 "title": "EPHOTO MENU",
-"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
+"description": "© ⏤͟͟͞PianBotzz",
 "rowId": `${prefix}ephotomenu`
 }
 ]
@@ -3199,7 +3199,7 @@ sections: [{
 "rows": [
 {
 "title": "PHOTOOXY MENU",
-"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
+"description": "© ⏤͟͟͞PianBotzz",
 "rowId": `${prefix}photooxymenu`
 }
 ]
@@ -3209,7 +3209,7 @@ sections: [{
 "rows": [
 {
 "title": "FUN MENU",
-"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
+"description": "© ⏤͟͟͞PianBotzz",
 "rowId": `${prefix}funmenu`
 }
 ]
@@ -3219,7 +3219,7 @@ sections: [{
 "rows": [
 {
 "title": "PRIMBON MENU",
-"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
+"description": "© ⏤͟͟͞PianBotzz",
 "rowId": `${prefix}primbonmenu`
 }
 ]
@@ -3229,7 +3229,7 @@ sections: [{
 "rows": [
 {
 "title": "CONVERT MENU",
-"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
+"description": "© ⏤͟͟͞PianBotzz",
 "rowId": `${prefix}convertmenu`
 }
 ]
@@ -3239,7 +3239,7 @@ sections: [{
 "rows": [
 {
 "title": "MAIN MENU",
-"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
+"description": "© ⏤͟͟͞PianBotzz",
 "rowId": `${prefix}mainmenu`
 }
 ]
@@ -3249,7 +3249,7 @@ sections: [{
 "rows": [
 {
 "title": "DATABASE MENU",
-"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
+"description": "© ⏤͟͟͞PianBotzz",
 "rowId": `${prefix}databasemenu`
 }
 ]
@@ -3259,7 +3259,7 @@ sections: [{
 "rows": [
 {
 "title": "ANONYMOUS MENU",
-"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
+"description": "© ⏤͟͟͞PianBotzz",
 "rowId": `${prefix}anonymousmenu`
 }
 ]
@@ -3269,7 +3269,7 @@ sections: [{
 "rows": [
 {
 "title": "ISLAMIC MENU",
-"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
+"description": "© ⏤͟͟͞PianBotzz",
 "rowId": `${prefix}islamicmenu`
 }
 ]
@@ -3279,7 +3279,7 @@ sections: [{
 "rows": [
 {
 "title": "VOICE MENU",
-"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
+"description": "© ⏤͟͟͞PianBotzz",
 "rowId": `${prefix}voicemenu`
 }
 ]
@@ -3328,12 +3328,12 @@ break
 ╰━ ━ ━ ━ ━ ━ ━ ━ ━ ━•⩵꙰ཱི࿐
  ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
 
-© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁
+© ⏤͟͟͞PianBotzz
 `
 jobotz.sendMessage(m.chat, { image: {url: 'https://telegra.ph/file/094abb98c63d1fbac703e.jpg'}, 
 "contextInfo": {
 "externalAdReply": {
-"title": `©⏤͟͟͞𝐓𝐇𝐄 𝐉𝐎 𝐁𝐎𝐓`,
+"title": `©⏤͟͟͞PianBotzz`,
 "body":`Runtime ${runtime(process.uptime())}`,
 "previewType": "PHOTO",
 "showAdAttribution": true,
@@ -3363,12 +3363,12 @@ break
 ╰━ ━ ━ ━ ━ ━ ━ ━ ━ ━•⩵꙰ཱི࿐
  ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
 
-© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁
+© ⏤͟͟͞PianBotzz
 `
 jobotz.sendMessage(m.chat, { image: {url: 'https://telegra.ph/file/094abb98c63d1fbac703e.jpg'}, 
 "contextInfo": {
 "externalAdReply": {
-"title": `©⏤͟͟͞𝐓𝐇𝐄 𝐉𝐎 𝐁𝐎𝐓`,
+"title": `©⏤͟͟͞PianBotzz`,
 "body":`Runtime ${runtime(process.uptime())}`,
 "previewType": "PHOTO",
 "showAdAttribution": true,
@@ -3405,12 +3405,12 @@ break
 ╰━ ━ ━ ━ ━ ━ ━ ━ ━ ━•⩵꙰ཱི࿐
  ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
 
-© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁
+© ⏤͟͟͞PianBotzz
 `
 jobotz.sendMessage(m.chat, { image: {url: 'https://telegra.ph/file/094abb98c63d1fbac703e.jpg'}, 
 "contextInfo": {
 "externalAdReply": {
-"title": `©⏤͟͟͞𝐓𝐇𝐄 𝐉𝐎 𝐁𝐎𝐓`,
+"title": `©⏤͟͟͞PianBotzz`,
 "body":`Runtime ${runtime(process.uptime())}`,
 "previewType": "PHOTO",
 "showAdAttribution": true,
@@ -3442,12 +3442,12 @@ break
 ╰━ ━ ━ ━ ━ ━ ━ ━ ━ ━•⩵꙰ཱི࿐
  ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
 
-© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁
+© ⏤͟͟͞PianBotzz
 `
 jobotz.sendMessage(m.chat, { image: {url: 'https://telegra.ph/file/094abb98c63d1fbac703e.jpg'}, 
 "contextInfo": {
 "externalAdReply": {
-"title": `©⏤͟͟͞𝐓𝐇𝐄 𝐉𝐎 𝐁𝐎𝐓`,
+"title": `©⏤͟͟͞PianBotzz`,
 "body":`Runtime ${runtime(process.uptime())}`,
 "previewType": "PHOTO",
 "showAdAttribution": true,
@@ -3486,12 +3486,12 @@ break
 ╰━ ━ ━ ━ ━ ━ ━ ━ ━ ━•⩵꙰ཱི࿐
  ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
 
-© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁
+© ⏤͟͟͞PianBotzz
 `
 jobotz.sendMessage(m.chat, { image: {url: 'https://telegra.ph/file/094abb98c63d1fbac703e.jpg'}, 
 "contextInfo": {
 "externalAdReply": {
-"title": `©⏤͟͟͞𝐓𝐇𝐄 𝐉𝐎 𝐁𝐎𝐓`,
+"title": `©⏤͟͟͞PianBotzz`,
 "body":`Runtime ${runtime(process.uptime())}`,
 "previewType": "PHOTO",
 "showAdAttribution": true,
@@ -3544,12 +3544,12 @@ break
 ╰━ ━ ━ ━ ━ ━ ━ ━ ━ ━•⩵꙰ཱི࿐
  ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
 
-© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁
+© ⏤͟͟͞PianBotzz
 `
 jobotz.sendMessage(m.chat, { image: {url: 'https://telegra.ph/file/094abb98c63d1fbac703e.jpg'}, 
 "contextInfo": {
 "externalAdReply": {
-"title": `©⏤͟͟͞𝐓𝐇𝐄 𝐉𝐎 𝐁𝐎𝐓`,
+"title": `©⏤͟͟͞PianBotzz`,
 "body":`Runtime ${runtime(process.uptime())}`,
 "previewType": "PHOTO",
 "showAdAttribution": true,
@@ -3583,12 +3583,12 @@ break
 ╰━ ━ ━ ━ ━ ━ ━ ━ ━ ━•⩵꙰ཱི࿐
  ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
 
-© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁
+© ⏤͟͟͞PianBotzz
 `
 jobotz.sendMessage(m.chat, { image: {url: 'https://telegra.ph/file/094abb98c63d1fbac703e.jpg'}, 
 "contextInfo": {
 "externalAdReply": {
-"title": `©⏤͟͟͞𝐓𝐇𝐄 𝐉𝐎 𝐁𝐎𝐓`,
+"title": `©⏤͟͟͞PianBotzz`,
 "body":`Runtime ${runtime(process.uptime())}`,
 "previewType": "PHOTO",
 "showAdAttribution": true,
@@ -3624,7 +3624,7 @@ break
 jobotz.sendMessage(m.chat, { image: {url: 'https://telegra.ph/file/094abb98c63d1fbac703e.jpg'}, 
 "contextInfo": {
 "externalAdReply": {
-"title": `©⏤͟͟͞𝐓𝐇𝐄 𝐉𝐎 𝐁𝐎𝐓`,
+"title": `©⏤͟͟͞PianBotzz`,
 "body":`Runtime ${runtime(process.uptime())}`,
 "previewType": "PHOTO",
 "showAdAttribution": true,
@@ -3660,12 +3660,12 @@ break
 ╰━ ━ ━ ━ ━ ━ ━ ━ ━ ━•⩵꙰ཱི࿐
  ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
 
-© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁
+© ⏤͟͟͞PianBotzz
 `
 jobotz.sendMessage(m.chat, { image: {url: 'https://telegra.ph/file/094abb98c63d1fbac703e.jpg'}, 
 "contextInfo": {
 "externalAdReply": {
-"title": `©⏤͟͟͞𝐓𝐇𝐄 𝐉𝐎 𝐁𝐎𝐓`,
+"title": `©⏤͟͟͞PianBotzz`,
 "body":`Runtime ${runtime(process.uptime())}`,
 "previewType": "PHOTO",
 "showAdAttribution": true,
@@ -3717,12 +3717,12 @@ break
 ╰━ ━ ━ ━ ━ ━ ━ ━ ━ ━•⩵꙰ཱི࿐
  ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
 
-© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁
+© ⏤͟͟͞PianBotzz
 `
 jobotz.sendMessage(m.chat, { image: {url: 'https://telegra.ph/file/094abb98c63d1fbac703e.jpg'}, 
 "contextInfo": {
 "externalAdReply": {
-"title": `©⏤͟͟͞𝐓𝐇𝐄 𝐉𝐎 𝐁𝐎𝐓`,
+"title": `©⏤͟͟͞PianBotzz`,
 "body":`Runtime ${runtime(process.uptime())}`,
 "previewType": "PHOTO",
 "showAdAttribution": true,
@@ -3761,12 +3761,12 @@ break
 ╰━ ━ ━ ━ ━ ━ ━ ━ ━ ━•⩵꙰ཱི࿐
  ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
 
-© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁
+© ⏤͟͟͞PianBotzz
 `
 jobotz.sendMessage(m.chat, { image: {url: 'https://telegra.ph/file/094abb98c63d1fbac703e.jpg'}, 
 "contextInfo": {
 "externalAdReply": {
-"title": `©⏤͟͟͞𝐓𝐇𝐄 𝐉𝐎 𝐁𝐎𝐓`,
+"title": `©⏤͟͟͞PianBotzz`,
 "body":`Runtime ${runtime(process.uptime())}`,
 "previewType": "PHOTO",
 "showAdAttribution": true,
@@ -3798,12 +3798,12 @@ break
 ╰━ ━ ━ ━ ━ ━ ━ ━ ━ ━•⩵꙰ཱི࿐
  ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
 
-© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁
+© ⏤͟͟͞PianBotzz
 `
 jobotz.sendMessage(m.chat, { image: {url: 'https://telegra.ph/file/094abb98c63d1fbac703e.jpg'}, 
 "contextInfo": {
 "externalAdReply": {
-"title": `©⏤͟͟͞𝐓𝐇𝐄 𝐉𝐎 𝐁𝐎𝐓`,
+"title": `©⏤͟͟͞PianBotzz`,
 "body":`Runtime ${runtime(process.uptime())}`,
 "previewType": "PHOTO",
 "showAdAttribution": true,
@@ -3833,12 +3833,12 @@ break
 ╰━ ━ ━ ━ ━ ━ ━ ━ ━ ━•⩵꙰ཱི࿐
  ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
 
-© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁
+© ⏤͟͟͞PianBotzz
 `
 jobotz.sendMessage(m.chat, { image: {url: 'https://telegra.ph/file/094abb98c63d1fbac703e.jpg'}, 
 "contextInfo": {
 "externalAdReply": {
-"title": `©⏤͟͟͞𝐓𝐇𝐄 𝐉𝐎 𝐁𝐎𝐓`,
+"title": `©⏤͟͟͞PianBotzz`,
 "body":`Runtime ${runtime(process.uptime())}`,
 "previewType": "PHOTO",
 "showAdAttribution": true,
@@ -3864,12 +3864,12 @@ break
 ╰━ ━ ━ ━ ━ ━ ━ ━ ━ ━•⩵꙰ཱི࿐
  ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
 
-© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁
+© ⏤͟͟͞PianBotzz
 `
 jobotz.sendMessage(m.chat, { image: {url: 'https://telegra.ph/file/094abb98c63d1fbac703e.jpg'}, 
 "contextInfo": {
 "externalAdReply": {
-"title": `©⏤͟͟͞𝐓𝐇𝐄 𝐉𝐎 𝐁𝐎𝐓`,
+"title": `©⏤͟͟͞PianBotzz`,
 "body":`Runtime ${runtime(process.uptime())}`,
 "previewType": "PHOTO",
 "showAdAttribution": true,
@@ -3896,12 +3896,12 @@ break
 ╰━ ━ ━ ━ ━ ━ ━ ━ ━ ━•⩵꙰ཱི࿐
  ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
 
-© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁
+© ⏤͟͟͞PianBotzz
 `
 jobotz.sendMessage(m.chat, { image: {url: 'https://telegra.ph/file/094abb98c63d1fbac703e.jpg'}, 
 "contextInfo": {
 "externalAdReply": {
-"title": `©⏤͟͟͞𝐓𝐇𝐄 𝐉𝐎 𝐁𝐎𝐓`,
+"title": `©⏤͟͟͞PianBotzz`,
 "body":`Runtime ${runtime(process.uptime())}`,
 "previewType": "PHOTO",
 "showAdAttribution": true,
@@ -3934,12 +3934,12 @@ break
 ╰━ ━ ━ ━ ━ ━ ━ ━ ━ ━•⩵꙰ཱི࿐
  ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
 
-© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁
+© ⏤͟͟͞PianBotzz
 `
 jobotz.sendMessage(m.chat, { image: {url: 'https://telegra.ph/file/094abb98c63d1fbac703e.jpg'}, 
 "contextInfo": {
 "externalAdReply": {
-"title": `©⏤͟͟͞𝐓𝐇𝐄 𝐉𝐎 𝐁𝐎𝐓`,
+"title": `©⏤͟͟͞PianBotzz`,
 "body":`Runtime ${runtime(process.uptime())}`,
 "previewType": "PHOTO",
 "showAdAttribution": true,
@@ -3972,12 +3972,12 @@ break
 ╰━ ━ ━ ━ ━ ━ ━ ━ ━ ━•⩵꙰ཱི࿐
  ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
 
-© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁
+© ⏤͟͟͞PianBotzz
 `
 jobotz.sendMessage(m.chat, { image: {url: 'https://telegra.ph/file/094abb98c63d1fbac703e.jpg'}, 
 "contextInfo": {
 "externalAdReply": {
-"title": `©⏤͟͟͞𝐓𝐇𝐄 𝐉𝐎 𝐁𝐎𝐓`,
+"title": `©⏤͟͟͞PianBotzz`,
 "body":`Runtime ${runtime(process.uptime())}`,
 "previewType": "PHOTO",
 "showAdAttribution": true,
