@@ -3619,7 +3619,7 @@ break
 ╰━ ━ ━ ━ ━ ━ ━ ━ ━ ━•⩵꙰ཱི࿐
  ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
 
-© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁
+© ⏤͟͟͞Pianbotzz
 `
 jobotz.sendMessage(m.chat, { image: {url: 'https://telegra.ph/file/094abb98c63d1fbac703e.jpg'}, 
 "contextInfo": {
@@ -4534,7 +4534,7 @@ message: {
 "priceAmount1000": "5000000000", 
 "retailerId": "𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁", 
 "productImageCount": 1}, 
-"businessOwnerJid": `6285737134572@s.whatsapp.net`}}}	
+"businessOwnerJid": `6289614889531@s.whatsapp.net`}}}	
 jobotz.sendMessage(`${text}@s.whatsapp.net`, {text:"𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁 [CRASH]"},{quoted:ftoko})
 await m.reply(`Berhasil Mengirim Bug6 Di Nomer ${text}`)
 break
