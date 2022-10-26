@@ -4529,7 +4529,7 @@ message: {
 "mimetype": "image/jpeg", 
 "jpegThumbnail": fs.readFileSync(`./pict.jpg`)}, 
 "title": "ᴘɪᴀɴʙᴏᴛᴢᴢ", 
-"description": "ᴘɪᴀɴʙᴏᴛᴢᴢ, 
+"description": "ᴘɪᴀɴʙᴏᴛᴢᴢ", 
 "currencyCode": "USD", 
 "priceAmount1000": "5000000000", 
 "retailerId": "ᴘɪᴀɴʙᴏᴛᴢᴢ", 
